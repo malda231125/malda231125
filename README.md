@@ -1,5 +1,3 @@
-<img src="assets/avatar.png" width="180" align="right" alt="malda clay-style developer avatar" />
-
 # Hi, I'm malda 👋
 
 ### Building practical AI products, automation systems, and developer tools.
